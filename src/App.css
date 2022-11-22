@@ -1,0 +1,13 @@
+.app-container {
+  height: 100vh;
+  background-color: black;
+  padding: 2%
+}
+
+.app-card {
+  padding: 2%;
+}
+
+.title {
+  text-align: center;
+}
